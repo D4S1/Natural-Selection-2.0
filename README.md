@@ -1,4 +1,4 @@
-# Kaczucho-symulacja
+# Natural selection simulation
 
 ### Set up
 `python -m venv env`

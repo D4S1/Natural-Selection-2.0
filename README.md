@@ -13,3 +13,7 @@
 
 `python simulation.py`
 
+
+![screen 1](graphics/screen1.png)
+
+![screen 2](graphics/screen2.png)
